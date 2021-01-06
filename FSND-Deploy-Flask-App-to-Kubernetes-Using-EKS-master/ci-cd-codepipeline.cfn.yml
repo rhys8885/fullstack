@@ -33,7 +33,7 @@ Parameters:
   GitHubToken:
     Type: String
     NoEcho: true
-    Description: fab4987cb540e0747d9e0d7066a6eed0d1833b61
+    Description: a037b538b0fcf6ad1ecbbdaeb15df0a0ba8056b5
     MinLength: 3
     MaxLength: 100
     ConstraintDescription: You must enter a GitHub personal access token
